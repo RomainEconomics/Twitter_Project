@@ -24,7 +24,6 @@ from sklearn.decomposition import NMF
 
 # Librairie pour stocker les différents modèles 
 import joblib
-#plt.use( 'tkagg' )
 
 def app():
 
