@@ -6,7 +6,7 @@ Repository utilisé pour stocker les notebooks et l'application réalisés  dans
 Sorbonne Data Analytics pour le projet de Text Mining.
 
 Nous avons travaillé sur des données issues de Twitter concernant le projet avorté de la superleague européenne.
-Ce projet a été l'occasion d'aborder toutes les thématiques classique d'un projet de NLP. Ainsi, celui-ci se divise en quatre partie :
+Ce projet a été l'occasion d'aborder toutes les thématiques classique d'un projet de NLP. Ainsi, celui-ci se divise en quatre parties :
 
 - une première partie ou nous avons extrait les tweets qui concernaient notre sujet, puis effectuer du data cleaning pour filtrer les données 
 qui n'apportaient pas d'informations supplémentaires.
