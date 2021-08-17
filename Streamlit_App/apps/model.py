@@ -44,7 +44,7 @@ def app():
     row1_1, row1_2, row1_3 = st.beta_columns((2,2,2))
     
     with row1_1:
-        selected_model = st.selectbox('Modèles',['LDA', 'BigramLDA', 'NMF_Frobenius', 'NMF_K-L'])
+        selected_model = st.selectbox('Modèles',['LDA',  'NMF_Frobenius', 'NMF_K-L'])
     with row1_2:    
         selected_topics = st.selectbox('Topics',list(range(2,11,1)))
     with row1_3:
